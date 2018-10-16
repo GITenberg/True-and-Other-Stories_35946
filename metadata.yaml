@@ -25,6 +25,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcsh 'American fiction'
 - !lcc 'PS'
+- GITenberg
 tableOfContents: True -- Major Barrington's marriage -- "Bad peppers" -- Three bridges
   -- In each other's shoes.
 title: True, and Other Stories
